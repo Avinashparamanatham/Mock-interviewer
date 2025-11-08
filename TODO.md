@@ -1,0 +1,24 @@
+# TODO: Resolve all problems in AI Mock Interview System
+- [x] Update questions.json with correct categories (behavioral, technical, etc.)
+- [x] Add missing dependencies to requirements.txt (openai-whisper, ipywidgets, IPython)
+- [x] Fix WebRTC setup in streamlit_app.py for both Video and Avatar modes
+- [x] Fix video_frame_callback to return proper av.VideoFrame from numpy array
+- [x] Simplify avatar mode by removing pythreejs and using image-based avatar
+- [x] Remove unused imports (flask request) from streamlit_app.py
+- [x] Add file cleanup for temporary audio files
+- [x] Improve error handling in results_page for missing data
+- [x] Fix interview_engine.py question generation to match updated categories
+- [x] Remove mediapipe dependency and simplify gesture detection
+- [x] Update package versions for compatibility
+- [x] Install updated dependencies (completed - resolved scipy compatibility issues)
+- [x] Run the application and test functionality (Streamlit app launched successfully)
+- [x] Verify question generation and evaluation work properly (all core functionality tested)
+- [x] Fix duplicate function definitions in streamlit_app.py (removed duplicate interview_page function)
+- [x] Add missing imports (cv2, numpy) to streamlit_app.py for video processing
+- [x] Enhanced feedback system with specific improvement suggestions in interview_engine.py
+- [x] Added comprehensive interview improvement tips section to results page
+- [x] Added per-question evaluation display in interview page
+- [x] Implemented personalized improvement suggestions based on question categories and performance patterns
+- [x] Added PDF report generation and download functionality
+- [x] Created PDF generator utility with professional formatting
+- [x] Added PDF dependencies to requirements.txt

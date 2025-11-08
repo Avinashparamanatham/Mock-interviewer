@@ -1,0 +1,30 @@
+{
+    "behavioral": [
+        "Tell me about yourself.",
+        "Can you share your biography or professional background?",
+        "Describe a time when you faced a challenge at work and how you overcame it.",
+        "Tell me about a situation where you had to work with a difficult team member."
+    ],
+    "technical": [
+        "Describe one of your projects in detail, including the challenges you faced and how you overcame them.",
+        "What programming languages and frameworks are you most proficient in?",
+        "Explain how you would design a scalable web application.",
+        "How do you approach debugging a complex issue?"
+    ],
+    "situational": [
+        "If you have 8 balls, one of which is heavier than the others, how can you find the heavy ball using a balance scale in just 2 weighings?",
+        "You have 12 coins, one of which is counterfeit (either heavier or lighter). Using a balance scale, how can you identify the counterfeit coin and determine if it's heavier or lighter in 3 weighings?",
+        "A lily pad doubles in size every day. If it takes 30 days to cover the entire pond, on which day does it cover half the pond?",
+        "You have three boxes, one with two gold coins, one with two silver coins, and one with one gold and one silver. Labels are wrong. Pick one coin from the box labeled 'mixed' - if gold, that box is gold; if silver, the other unlabeled is gold."
+    ],
+    "communication": [
+        "How do you explain complex technical concepts to non-technical stakeholders?",
+        "Tell me about a time when you had to present to a large audience.",
+        "How do you handle giving constructive feedback to a colleague?"
+    ],
+    "problem_solving": [
+        "Walk me through your approach to solving a complex problem.",
+        "How do you prioritize tasks when you have multiple deadlines?",
+        "Describe your process for learning a new technology or tool."
+    ]
+}
